@@ -4,15 +4,14 @@
 
 ## Language
 
-* Bahasa
+* Indonesian
 * Sundanese
 * English
 
 ## Programming Language
 
-* Javascript (Most used)
-* Typescript ❤️
-* Python
+* Javascript
+* Java
 
 ## Get in touch
 
